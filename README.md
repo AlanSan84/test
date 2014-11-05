@@ -1,5 +1,5 @@
 Practica sobre control de versiones
 
-Alumno: Alan Eduardo Puc Pech
+Alumno: Alan Puc
 
 IT101
